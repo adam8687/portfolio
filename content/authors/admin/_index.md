@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Adam Mohiuddin
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ I am a high school senior with a passion for technology and innovation. I am an active participant in the FIRST Robotics Competition program and a co-founder of EcoCents, an initiative aimed at revolutionizing recycling. I have also developed ScholarSync, a platform designed to streamline the scholarship search process for high school students. My experiences span from designing cutting-edge technology for robotics competitions to advocating for inclusivity in STEM.
