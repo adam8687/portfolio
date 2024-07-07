@@ -3,7 +3,7 @@
 title: Adam Mohiuddin
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: Adam Mohiuddin
 
 # Full name (for SEO)
 first_name: Adam
